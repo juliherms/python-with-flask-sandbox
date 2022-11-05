@@ -1,0 +1,11 @@
+__pycache__/
+venv/
+.vscode
+config.ini
+*.swo
+*.swp
+*.pyc
+.pytest_cache
+.coverage
+node_modules
+.scannerwork
