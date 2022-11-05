@@ -1,3 +1,5 @@
+DEBUG=True
+
 USERNAME='api-accounts'
 PASSWORD='accounts'
 SERVER='localhost'

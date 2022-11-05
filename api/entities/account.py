@@ -7,7 +7,7 @@ class Account():
 
     @property
     def name(self):
-        self.__name
+        return self.__name
 
     @name.setter
     def name(self, name):
@@ -15,7 +15,7 @@ class Account():
 
     @property
     def resume(self):
-        self.__resume
+        return self.__resume
 
     @resume.setter
     def resume(self, resume):
@@ -23,7 +23,7 @@ class Account():
 
     @property
     def amount(self):
-        self.__amount
+        return self.__amount
 
     @amount.setter
     def amount(self, amount):
