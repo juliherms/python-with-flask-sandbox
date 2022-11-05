@@ -1,5 +1,5 @@
-USERNAME='root'
-PASSWORD=''
+USERNAME='api-accounts'
+PASSWORD='accounts'
 SERVER='localhost'
 DB='account-management'
 
